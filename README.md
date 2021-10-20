@@ -13,4 +13,6 @@ primary key from the attributes provided
 
 3. And finally a controller to use CRUD on the DB.
 
+4. Add the configuration for the H2 database and enable the H2 console.
+See it at localhost:9001/h2-console
 
